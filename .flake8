@@ -1,0 +1,6 @@
+# http://flake8.pycqa.org/en/latest/user/configuration.html
+# https://pep8.readthedocs.io/en/latest/intro.html
+
+[flake8]
+ignore =
+    E501,  # line too long; duplicate of pylint line-too-long
